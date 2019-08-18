@@ -28,7 +28,8 @@
 2. 交互
 - 搜索和点击侧边栏`表格列,定位到卡片机、地图缩放级别放大、展示对话框`
 - 对话框内容如下图
-![](images/在线监控对话框弹框.png)
+
+<img src="https://github.com/RenTao0524/rtblog.github.io/blob/master/%E5%9C%B0%E5%9B%BE%E7%9B%B8%E5%85%B3%E9%9C%80%E6%B1%82%E6%95%B4%E7%90%86/images/%E5%9C%A8%E7%BA%BF%E7%9B%91%E6%8E%A7%E5%AF%B9%E8%AF%9D%E6%A1%86%E5%BC%B9%E6%A1%86.png" width=400>
 
 |对话框操作|功能|
 |--------|----|
